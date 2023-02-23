@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Wall
+  - Indiainktg
+  - _gameManager
+  - Player_home
+  - Ai_mong
+  - Ai_syang
+  - Ai_gora
+  - Anemone
+  - SharkSkill
+  - Spawn_P
+  - P_Text
+  - Heal
+  - WallCharacter
+  - AI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - layer
+  - 
+  - Player
+  - Bullet
+  - AI
+  - 
+  - 
+  - Anemone
+  - WallCharacter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

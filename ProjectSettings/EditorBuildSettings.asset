@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UnderTheSea/Scenes/a00_Loading.unity
+    guid: 13714ff4c4900d044a2519a54d0008df
+  - enabled: 1
+    path: Assets/UnderTheSea/Scenes/a01_Title.unity
+    guid: 92fc9913a003b7d469f51b9c9040e42e
+  - enabled: 1
+    path: Assets/UnderTheSea/Scenes/a02_SoloLobby.unity
+    guid: 9e1f8b6d8449da0459f921696a1f1f90
+  - enabled: 1
+    path: Assets/UnderTheSea/Scenes/a03_SoloPlay.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/UnderTheSea/Scenes/a04_Gallery.unity
+    guid: 63d989a608c27da47b457a5e0fb8926e
+  - enabled: 1
+    path: Assets/UnderTheSea/Scenes/a05_Credit.unity
+    guid: 11c16404ea891f94cb3ede0628ee7e10
+  - enabled: 1
+    path: Assets/UnderTheSea/Scenes/a06_Gallery2.unity
+    guid: d74647be57279034dbe84c143e26e0a7
+  m_configObjects: {}

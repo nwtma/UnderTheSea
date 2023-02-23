@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 13cb542ce99c4c741acf185121f4eff2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1 - 1
+    100002: 1 - 2
+    100004: 1 - 3
+    100006: 1 - 4
+    100008: 1 - 5
+    100010: 1 - 6
+    100012: 1 - 7
+    100014: 1 - 8
+    100016: 2 - 1
+    100018: 2 - 2
+    100020: 2 - 3
+    100022: 2 - 4
+    100024: 2 - 5
+    100026: 2 - 6
+    100028: 2 - 7
+    100030: 2 - 8
+    100032: 3 - 1
+    100034: 3 - 2
+    100036: 3 - 3
+    100038: 3 - 4
+    100040: 3 - 5
+    100042: 3 - 6
+    100044: 3 - 7
+    100046: 3 - 8
+    100048: 4 - 1
+    100050: 4 - 2
+    100052: 4 - 3
+    100054: 4 - 4
+    100056: 4 - 5
+    100058: 4 - 6
+    100060: 4 - 7
+    100062: 4 - 8
+    100064: 5 - 1
+    100066: 5 - 2
+    100068: 5 - 3
+    100070: 5 - 4
+    100072: 5 - 5
+    100074: 5 - 6
+    100076: 5 - 7
+    100078: 5 - 8
+    100080: 6 - 1
+    100082: 6 - 2
+    100084: 6 - 3
+    100086: 6 - 4
+    100088: 6 - 5
+    100090: 6 - 6
+    100092: 6 - 7
+    100094: 6 - 8
+    100096: Bone001
+    100098: Bone002
+    100100: Bone003
+    100102: Bone004
+    100104: Bone005
+    100106: Bone006
+    100108: Bone007
+    100110: Bone008
+    100112: Bone009
+    100114: Bone010
+    100116: Bone011
+    100118: Bone012
+    100120: Bone013
+    100122: Bone014
+    100124: Bone015
+    100126: Bone016
+    100128: Bone017
+    100130: Bone018
+    100132: Bone019
+    100134: Bone020
+    100136: Bone021
+    100138: Bone022
+    100140: Bone023
+    100142: Bone024
+    100144: Bone025
+    100146: Bone026
+    100148: Bone027
+    100150: Bone028
+    100152: Bone029
+    100154: Bone030
+    100156: Bone031
+    100158: Bone032
+    100160: Bone033
+    100162: Bone034
+    100164: Bone035
+    100166: Bone036
+    100168: Bone037
+    100170: Bone038
+    100172: Bone039
+    100174: Bone040
+    100176: Bone041
+    100178: Bone042
+    100180: Bone043
+    100182: Bone044
+    100184: Bone045
+    100186: Bone046
+    100188: Bone047
+    100190: Bone048
+    100192: Bone049
+    100194: Bone050
+    100196: Bone051
+    100198: Bone052
+    100200: Bone053
+    100202: Bone054
+    100204: Bone055
+    100206: Bone056
+    100208: Bone057
+    100210: Bone058
+    100212: Bone059
+    100214: Bone060
+    100216: Bone061
+    100218: Bone062
+    100220: Bone063
+    100222: Bone064
+    100224: Bone065
+    100226: Bone066
+    100228: Bone067
+    100230: Bone068
+    100232: Bone069
+    100234: Bone070
+    100236: Bone071
+    100238: Bone072
+    100240: Bone073
+    100242: Bone074
+    100244: Bone075
+    100246: Cone008
+    100248: Object002
+    100250: Sphere002
+    100252: Sphere003
+    100254: "\uB2E4\uB9AC"
+    100256: //RootNode
+    400000: 1 - 1
+    400002: 1 - 2
+    400004: 1 - 3
+    400006: 1 - 4
+    400008: 1 - 5
+    400010: 1 - 6
+    400012: 1 - 7
+    400014: 1 - 8
+    400016: 2 - 1
+    400018: 2 - 2
+    400020: 2 - 3
+    400022: 2 - 4
+    400024: 2 - 5
+    400026: 2 - 6
+    400028: 2 - 7
+    400030: 2 - 8
+    400032: 3 - 1
+    400034: 3 - 2
+    400036: 3 - 3
+    400038: 3 - 4
+    400040: 3 - 5
+    400042: 3 - 6
+    400044: 3 - 7
+    400046: 3 - 8
+    400048: 4 - 1
+    400050: 4 - 2
+    400052: 4 - 3
+    400054: 4 - 4
+    400056: 4 - 5
+    400058: 4 - 6
+    400060: 4 - 7
+    400062: 4 - 8
+    400064: 5 - 1
+    400066: 5 - 2
+    400068: 5 - 3
+    400070: 5 - 4
+    400072: 5 - 5
+    400074: 5 - 6
+    400076: 5 - 7
+    400078: 5 - 8
+    400080: 6 - 1
+    400082: 6 - 2
+    400084: 6 - 3
+    400086: 6 - 4
+    400088: 6 - 5
+    400090: 6 - 6
+    400092: 6 - 7
+    400094: 6 - 8
+    400096: Bone001
+    400098: Bone002
+    400100: Bone003
+    400102: Bone004
+    400104: Bone005
+    400106: Bone006
+    400108: Bone007
+    400110: Bone008
+    400112: Bone009
+    400114: Bone010
+    400116: Bone011
+    400118: Bone012
+    400120: Bone013
+    400122: Bone014
+    400124: Bone015
+    400126: Bone016
+    400128: Bone017
+    400130: Bone018
+    400132: Bone019
+    400134: Bone020
+    400136: Bone021
+    400138: Bone022
+    400140: Bone023
+    400142: Bone024
+    400144: Bone025
+    400146: Bone026
+    400148: Bone027
+    400150: Bone028
+    400152: Bone029
+    400154: Bone030
+    400156: Bone031
+    400158: Bone032
+    400160: Bone033
+    400162: Bone034
+    400164: Bone035
+    400166: Bone036
+    400168: Bone037
+    400170: Bone038
+    400172: Bone039
+    400174: Bone040
+    400176: Bone041
+    400178: Bone042
+    400180: Bone043
+    400182: Bone044
+    400184: Bone045
+    400186: Bone046
+    400188: Bone047
+    400190: Bone048
+    400192: Bone049
+    400194: Bone050
+    400196: Bone051
+    400198: Bone052
+    400200: Bone053
+    400202: Bone054
+    400204: Bone055
+    400206: Bone056
+    400208: Bone057
+    400210: Bone058
+    400212: Bone059
+    400214: Bone060
+    400216: Bone061
+    400218: Bone062
+    400220: Bone063
+    400222: Bone064
+    400224: Bone065
+    400226: Bone066
+    400228: Bone067
+    400230: Bone068
+    400232: Bone069
+    400234: Bone070
+    400236: Bone071
+    400238: Bone072
+    400240: Bone073
+    400242: Bone074
+    400244: Bone075
+    400246: Cone008
+    400248: Object002
+    400250: Sphere002
+    400252: Sphere003
+    400254: "\uB2E4\uB9AC"
+    400256: //RootNode
+    2100000: 07 - Default
+    2100002: 01 - Default
+    2100004: 03 - Default
+    2300000: Sphere002
+    2300002: Sphere003
+    3300000: Sphere002
+    3300002: Sphere003
+    4300000: Cone008
+    4300002: Sphere002
+    4300004: Object002
+    4300006: Sphere003
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Cone008
+    13700002: Object002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 20f263b9ac59a794898f14e3ea60551c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 44134488011a7874490eb7f682cf057d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 90ec6f10209dec046a095836bd78be9e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
